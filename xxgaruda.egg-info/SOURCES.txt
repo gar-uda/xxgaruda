@@ -1,0 +1,9 @@
+README.md
+setup.py
+xxgaruda.py
+xxgaruda.egg-info/PKG-INFO
+xxgaruda.egg-info/SOURCES.txt
+xxgaruda.egg-info/dependency_links.txt
+xxgaruda.egg-info/entry_points.txt
+xxgaruda.egg-info/requires.txt
+xxgaruda.egg-info/top_level.txt
